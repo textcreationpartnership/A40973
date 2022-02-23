@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fast and loose, or, The armies figgaries being some animadversions upon their late declaration, 1659.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40973</idno>
+            <idno type="STC">Wing F539</idno>
+            <idno type="STC">ESTC R5038</idno>
+            <idno type="EEBO-CITATION">11794049</idno>
+            <idno type="OCLC">ocm 11794049</idno>
+            <idno type="VID">49275</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49275)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 491:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fast and loose, or, The armies figgaries being some animadversions upon their late declaration, 1659.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Declaration of the General Council of the officers of the Army, agreed upon at Wallingfordhouse, 27th Octob. 1659.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49275:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>
+               <hi>Faſt and Looſe.</hi> OR, THE ARMIES FIGGARIES: BEING SOME ANIMADVERSIONS Upon their late DECLARATION. 1659.</p>
+            <p>
+               <q>When there was no King in Iſrael, every man did what ſeemed good in his owne eyes.</q>
+            </p>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49275:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="3" facs="tcp:49275:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>FAST and LOOSE OR THE ARMIES FIGGARIES <hi>&amp;c.</hi>
+            </head>
+            <p>THe preſent ſtate of theſe Nations are in no circumſtance ſo bad as in this, that according to all humane judgement they are in no like<g ref="char:EOLhyphen"/>lihood of being better; ſo that unleſſe the providence of God ſhall interpoſe by an high hand, we are in dan<g ref="char:EOLhyphen"/>ger of ſuffering ſhipwrack: he is a ſtranger in <hi>Iſrael</hi> that knows not the ſad diſtractions, fightings, pillages, and other inconveniencies which attend civil War; in what abundance they have been poured out upon us, and yet we are as far from enjoying any of thoſe priviledges or freedomes, for which we pretended to begin the quarrel as at firſt, nay it hath been our portion to meet with ſuch inſtruments, who as the Apoſtle ſaith, have out<g ref="char:EOLhyphen"/>done thoſe who have condemned, and when oppertu<g ref="char:EOLhyphen"/>nity hath been put into their hands not returning us again into the waies of peace and ſafety, have miſera<g ref="char:EOLhyphen"/>bly, deceitfully, and baſely brought us to wade in blood afreſh, and tread the ſteps of confuſion: when I ſeriouſly conſider the proteſtations, declarations, oaths, and engagements of this preſent Army; and thoſe men whom they lately diſſolved have run through, their de<g ref="char:EOLhyphen"/>portment and behaviour, ſo little ſquaring with what they have profeſſed; I cannot but ſay with a ſad heart,
+<pb n="4" facs="tcp:49275:3"/>
+               <!-- PDF PAGE 45 -->that thoſe who chiefly cryed out for our Libertyes, were the greateſt infringers of them, and thoſe who all along have had nothing in their mouths but God, the provi-of God, the advancement of Religion, and the like, have in their actings plainly demonſtrated a high con<g ref="char:EOLhyphen"/>tempt of religion, yea and of God himſelf, whoſe name they have ſo often called to the witneſſe of a lie, as if they believe not him when he ſaith, <hi>I will not hold him guiltleſs that taketh my name in vain.</hi>
+            </p>
+            <p>I ſhall look back to the beginning of all our preſent woes, of which a breviate ſhall ſuffice, in regard others have beſtowed their pains largely that way; ſo then not to trouble you with remembrance of the Covenant which was manifeſtly broken, by ſo many of the long Parliament as were ſuffered to ſit till the Kings death; and many other things of like nature: I ſhall onely here give notice that the Army refuſed to disband though commanded by that power which raiſed them, and after that took engagement to be true to the Com<g ref="char:EOLhyphen"/>mon-wealth without ſingle perſon or houſe of Lords, yet in a while were a means of ſetting up <hi>Oliver Cromwel</hi> to govern as a ſingle perſon, by the name of Protector; to him they addreſſe themſelves as in a high manner, as the deliverer of theſe Nations from ruine, &amp;c. he was indeed a man of great parts, and as long as we continue ſuch a diſcontented people as we are, 'tis pity we ſhould want ſuch a government, if he may not be admitted, toward whom is bent the general wiſhes and deſires of the people. <hi>Richard</hi> ſucceeded <hi>Oliver</hi> in the Protector<g ref="char:EOLhyphen"/>ſhip, a man of good diſpoſition, but bad fortune, I can<g ref="char:EOLhyphen"/>not think him a fool, though he was outwitted, having ſo many cunning huckſters to deal with; all of them am<g ref="char:EOLhyphen"/>bitious of rule, and were ſo much the more deſirous to fly an high pitch, becauſe their riſe was taken from a low ground; at the entrance of his raign, addreſſes and ſalutations came in abundance from all parts of the Na<g ref="char:EOLhyphen"/>tion, eſpecially from the Army, and ſeem'd to have as much reſpect as if he had been born King of <hi>England,</hi>
+               <pb n="5" facs="tcp:49275:3"/>
+               <!-- PDF PAGE 45 -->he cauſed a Parliament to be choſen, the choiſe was ve<g ref="char:EOLhyphen"/>ry free, and certainly the Major part of Members cho<g ref="char:EOLhyphen"/>ſen, were men wholly reſolved for the good of their par<g ref="char:EOLhyphen"/>ticular Counties, and for the Nation in general; but they began too ſoon to think of calling thoſe to an account, who had fingred the publick money, and chea<g ref="char:EOLhyphen"/>ted the State of great ſums, for ſome of thoſe being great ones, wrought ſo powerfully under hand with the Army, that partly by cunning, partly by threats, they cauſe the Protector to ſigne a Warrant for their diſſolu<g ref="char:EOLhyphen"/>tion, otherwiſe they would have done it without him; pretending to provide for tender conſciences of the godly, when indeed it was to ſave the necks and purſes of the wicked: that which gave the Army a motive hereunto, was becauſe this Parliament had a purpoſe of ſecuring the Nation by Militia and trained bands, as in former times, and ſo to disband this Army being a very great burthen: yet the Officers of the Army at this turn knew not well what courſe to ſteer, but after ſome debate called the long Parliament to ſit again, and now being not well content with theſe neither as not acting to their ſatisfaction, they thought good to ſend them home each man to his habitation, and to juſtify this action of theirs, have put forth a Declaration, upon which you may be pleaſed to take ſome few Animadver<g ref="char:EOLhyphen"/>ſions only upon a few of the principal heads.</p>
+            <p>In the firſt, ſecond and third pages, they ſay that their care was great how to ſettle this Common-wealth, and that therefore they delivered the power and truſt of theſe Nations into the hands of theſe men.</p>
+            <p>I cannot but call to mind how often the Army decla<g ref="char:EOLhyphen"/>red, and this laſt rump of a Parliament voted the ſu<g ref="char:EOLhyphen"/>preme power in the people, and upon that very account cut off the King, under a pretence that he acted con<g ref="char:EOLhyphen"/>trary to the truſt repoſed in him by the people, yet now the Souldiers have the power and truſt of theſe Nations, obſerve, they can have no power but from the people; from whom they never yet legally had any, and there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:49275:4"/>
+               <!-- PDF PAGE 46 -->they could make no delivery of it to the Parlia<g ref="char:EOLhyphen"/>ment, but ſuch as one thief makes to another, and ſure<g ref="char:EOLhyphen"/>ly neither of them can be ſaid to keep our Liberties in any ſence but againſt carnal law, reaſon, and the will of thoſe to whom it doth belong; 'tis certain the Army lookt upon them as men that would in all particulars comply with their unſatiable deſires, and tis thought they would had the quarrel not been about ſoveraignty and durance, for they like their Maſters would be ever<g ref="char:EOLhyphen"/>laſting, having no liking to return form places of ſuch vaſt profit as they enjoy to ſit ſtill and get nothing, eſpe<g ref="char:EOLhyphen"/>cially if there ſhould be a returning from whence they came, ſome from a Collonel to a Cobler: but enough of that.</p>
+            <p>Page four, five, ſix, We underſtand many learned men are of opinion, that theſe men were wholly diſſol<g ref="char:EOLhyphen"/>ved from being a Parliament, by their late interrupti<g ref="char:EOLhyphen"/>on eſpecially by the peoples chooſing a new: yet being deſirous like drowning men to lay hold of every twig, or any thing that had but the appearance of civil autho<g ref="char:EOLhyphen"/>rity, though fit to call them together again, we deſired an Act of Indempnity, which came forth imperfect, we deſired a General which alſo was not granted to our mind, and we were all forced to receive Commiſſions there.</p>
+            <p>They ſay the Parliament was diſſolv'd before; if ſo, by what Law can any company of Raſcals make them whole, or capable of acting as a Parliament? nay, the King could not properly make a Parliament without the Peoples choice, how much leſſe can theſe do it, who have no power, no authority, but force and fraud? ſo that they muſt needs be no leſſe then Uſurpers and Tyrants in the higheſt degree, and one of the greateſt plagues that ever befell the Engliſh; and we may hope, that when we are ſufficiently humbled for all our impieties and provocations with which we have offended God, he may deſtroy thoſe Locuſts from amongſt us: But further, if no Parliament, what benefit
+<pb n="7" facs="tcp:49275:4"/>
+               <!-- PDF PAGE 46 -->could they expect to receive by any Act of Indempnity which was to be, or might have been made by them? therefore it ſeems, in this ſence, they were willing to lay hold upon every twig, and to imbrace any thing that had but an appearance of Authority, more then ap<g ref="char:EOLhyphen"/>pearance it muſt not be; a true reall authority legally deducted can be at no more agreement with them then light with darkneſſe, true Engliſh hate and ſcorn to do ſuch drudgery for them as theſe Gown-men have done, yet all wo'nt pleaſe 'em; and why ſhould the people be thus deluded or baffled with more; this day the Parliament of the Common-wealth of <hi>England</hi> to be maintained againſt all Oppoſers, the next day an appearance of Authority, a Kickſhaw, or the Armies Puppets.</p>
+            <p>One would think the receiving Commiſſions at their hands had been obligation enough; but where the Sword is rampant nothing can reſiſt, eſpecially when thoſe that uſe it know no conſcience but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir pay.</p>
+            <p>In ſome other following pages they declare what in<g ref="char:EOLhyphen"/>jury was offered to <hi>Lambert,</hi> and ſome other Officers of the Army by voting them out of Commiſſion for no<g ref="char:EOLhyphen"/>thing; for ſay they, If he had offended, why not call'd to anſwer for himſelfe?</p>
+            <p>Me thinks in this Declaration, and ſome late actions of theirs, they ſpeak aloud, that they will rule; it were well, that they had put off their Viſors ſooner, and ap<g ref="char:EOLhyphen"/>pear'd in their colours as at this day, and have cloak'd all their villainy under Religious pretences; for by that means they have the Lords offerings to ſtink in the noſtrils of the people: and have rendred themſelves guilty of notorious diſſimulations, Rebellions and per<g ref="char:EOLhyphen"/>juries, exceeding any parallel even among the Hea<g ref="char:EOLhyphen"/>then: this laſt charge hath as little of truth or reaſon as any the reſt; for this Army did acknowledge thoſe men a Parliament in their Declaration of the 6. of <hi>May</hi> laſt, and by receiving Commiſſions immediately from
+<pb n="8" facs="tcp:49275:5"/>
+               <!-- PDF PAGE 47 -->them, did acknowledge that they were the ſupream Au<g ref="char:EOLhyphen"/>thority of the Nation (at leaſt to them) now there can be no injury where there is no right; the Parliament did not legally, nor upon any account whatſoever owe to <hi>Lambert</hi> or the reſt ſuch and ſuch places, but were at their free liberty to chooſe whom they thought moſt fit and convenient; and upon that account, though they did owne him to day, and reject him to morrow, though for no crime, yet had he no wrong: for if I, or any man, take a Servant, I injure no man whom I take not, becauſe the liberty of chooſing is of right my own; but then wrong is done, when a ſervant is put upon me whom I deſire not (for ſome reaſons) to im<g ref="char:EOLhyphen"/>ploy any longer; and you may be ſure that <hi>Bottomleſſe John</hi> (as <hi>Oliver</hi> uſed to call him) was not turn'd out of Commiſſion for nothing.</p>
+            <p>They declare further, that the Parliament made an Act, that no perſon or perſons whatſoever ſhould raiſe money without conſent of the People in Parliament; and therefore do declare all their Acts and Orders ſince the tenth of <hi>October,</hi> null and void.</p>
+            <p>I wiſh ſome Conjurer, Aſtrologer, or ſome of our hair-brain'd Prophets were able to let us know what is the extent of theſe mens mindes; 'tis incerted in moſt of their Propoſals towards a ſettlement; and hath been laid down as one thing chiefly fought for: What this pretended Parliament have done in this caſe, they have both one and the other declared it to be right and juſt; <hi>viz.</hi> that no money ought to be raiſed with<g ref="char:EOLhyphen"/>out the Peoples conſent in Parliament: but in<g ref="char:EOLhyphen"/>deed that is moſt right that beſt ſuits with the Armies exigencies, the government which they exerciſe being wholly arbitrary and Tyrannicall, though they have oft-times abuſed the people with ſpecious pretences, the better to cloak their treaſonable practiſes; for when it comes to the touchſtone, what they profeſſe to build, they demoliſh, and intend nothing leſſe then what they ſpeak: But we may not think there is ſo
+<pb n="9" facs="tcp:49275:5"/>
+               <!-- PDF PAGE 47 -->much as the leaſt ſhow of reaſon that the Army ſhould declare Acts and Ordinances of Parliament void, yet not all their laſt Acts, but only ſome few which croſs'd the humors and deſignes of theſe Gameſters: this, O <hi>England</hi> is one of thy priviledges, that thoſe bands, ties, and obligations which have been binding univer<g ref="char:EOLhyphen"/>ſally, are cut aſunder by that Sword which was drawn for thy defence, and a Viper bred in thine own bowels will lay thine honour in the duſt, and make thee a laughing ſtock to all the Nations round about.</p>
+            <p>Let it be conſidered that Acts and Orders of Parlia<g ref="char:EOLhyphen"/>ment once paſt cannot be made void by all the Armies, I mean, not legally; but to the preſent buſineſſe, theſe perſons were (as is noted before) ſufficiently acknow<g ref="char:EOLhyphen"/>ledged a Parliament by the Soldiers, and therefore it muſt be treaſon to act after ſuch a rate as this: but if we ſuppoſe as they affirm at the beginning of their De<g ref="char:EOLhyphen"/>claration, that they are only an appearance of Authori<g ref="char:EOLhyphen"/>ty; I ſay, if this be admitted, that they were no Par<g ref="char:EOLhyphen"/>liament, becauſe of their interruption, what baſeneſſe was it in the Army to obtrude them upon the People as a Parliament; beſides, if they were not, then is the Army disbanded, for they have no Commiſſions but what was granted from them, which are in no wiſe va<g ref="char:EOLhyphen"/>lid, they having no power to give or beſtow any ſuch thing; and whoſoever act by vertue of ſuch pretended Commiſſions are guilty of all the blood they ſhed, and of the higheſt Treaſons againſt the welfare of the Na<g ref="char:EOLhyphen"/>tion; for they might as well have call'd to <hi>Westminster</hi> ſuch as are now made Preachers, ſome from the Loom, and others from the Coblers Stall.</p>
+            <p>Laſtly, they declare that their earneſt deſire is to aſ<g ref="char:EOLhyphen"/>ſure a liberty to all the free born People of theſe Na<g ref="char:EOLhyphen"/>tions, as men, as Chriſtians, to maintain a painfull Goſpel-preaching Miniſtery, by a leſſe vexatious way than Tithes, that they have no aim to ſet up an arbi<g ref="char:EOLhyphen"/>trary or millitary government; but have provided that the civill and executive part of Government ſhall be
+<pb n="10" facs="tcp:49275:6"/>
+               <!-- PDF PAGE 48 -->lodg'd in a Committee of ſafety, and they oblig'd in a ſhort time to prepare a forme of Government comport<g ref="char:EOLhyphen"/>ing with a Free State, without King or Houſe of Lords, and to regulate the Law.</p>
+            <p>I could never be ſatisfied with my beſt obſervation, why p Free State, or the government of theſe Nations as a Common-wealth, ſhould be cried up as a thing ſo much tending to our peace and liberty; we have all along beene accuſtomed to Monarchy, all our Lawes, Cuſtoms, and Conſtitutions are framed accordingly; and queſtionleſſe (all things conſidered) there can be no other reaſon given for it but this, that a Common-wealth is ſo oppoſite to the mindes of the major part, that it neceſſarily requires an Army to uphold it, which indeed is the only way to continue the profits, Autho<g ref="char:EOLhyphen"/>rities, and greatneſſe of the Officers, and make the Army to ſurvive the everlaſting Parliament: whereas if the Peoples Repreſentatives were ſuffered to be freely choſen, and to act without force put upon them; or he admitted whoſe undoubted right it is, a general tranqui<g ref="char:EOLhyphen"/>lity would enſue, and every man might ſit down under his own Vine with ſafety.</p>
+            <p>The liberty of the People is ſo manifeſtly trampled upon, that 'tis no ſmall wonder theſe men dare uſe the word; the ſaying of <hi>Samuel,</hi> if it be inverted, may ſerve as a good character of theſe men, read them thus: <hi>Whoſe Oxe have I not taken? or wheſe Aſſe have I not ta<g ref="char:EOLhyphen"/>ken? and to whom have I not done wrong?</hi>
+            </p>
+            <p>The removing of Tithes, and regulation of the Laws, are things eaſier to be ſpoken of then effected, to be ſure not to be better'd by theſe great Pretenders: Who ever knew Thieves help true men to their purſes, unleſſe when they were empty? but theſe fair promiſes muſt be as a Net ſpread to take all ſorts of fiſh, to pleaſe as well the Anabaptiſt as the Presbyter; the one with hopes of overthrowing Tithes; the other with confi<g ref="char:EOLhyphen"/>dence of a bountifull ſtipend: The Law and Lawyers are like to ſuffer deeply at this turn; and no wonder,
+<pb n="11" facs="tcp:49275:6"/>
+               <!-- PDF PAGE 48 -->for theſe men know full well what a ſevere cenſure the Law would paſſe upon their irregularities; how ſadly it would diſperſe and divide that monſtrous body be<g ref="char:EOLhyphen"/>tween <hi>Tiburn</hi> and <hi>Tower-hill:</hi> But if our grave Senators in former times have by long experience found our Lawes to be moſt fit, what can we expect from ſuch Reformers as theſe, but that as Tinkers in mending one hole they ſhould make ten?</p>
+            <p>To conclude, <hi>Oliver Cromwels</hi> Tyranny was but as a few heat-drops, if compared to thoſe floods and ſhowres of Calamity poured upon us by theſe inſatiate and blood-thirſty Wretches, enough to arme the hand of every man againſt them: and truly we hope they will in Gods due time meet with their reward; and as they have exerciſed an arbitrary power, contrary to all Law, they may be cut off without any formality of Law. In a word, they have deſtroyed the King and his poſterity, and now contend who ſhall be chiefe.</p>
+            <epigraph>
+               <q>
+                  <l>The Lion Lamb they ſlue, and now begin</l>
+                  <l>(The Lord be prais'd) to quarrel for his Skin.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
